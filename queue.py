@@ -1,3 +1,5 @@
+#Author : MOHITH N
+
 class Queue(object):
     def __init__(self, limit = 10):
         self.queue = []
