@@ -1,3 +1,5 @@
+#Author : MOHITH N
+
 class Stack(object):
     def __init__(self, limit = 10):
         self.stack = []
