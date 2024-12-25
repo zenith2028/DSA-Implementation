@@ -1,3 +1,5 @@
+#Author : MOHITH N
+
 class Node(object):
 	def __init__(self, val):
 		self.key = val
